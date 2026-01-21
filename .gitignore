@@ -1,0 +1,11 @@
+# Ugly system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# MS Office temporary files
+~$*
+
+# Eagle backup files
+*.b#?
+*.s#?
